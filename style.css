@@ -1,0 +1,24 @@
+/* Styles go here */
+
+#header {
+  background: grey;
+  height: 100px;
+}
+
+#logo {
+  float: left;
+}
+
+#heading {
+  position: absolute;
+  left: 200px;
+  text-align: center;
+}
+
+#footer {
+    background-color:grey;
+    color:black;
+    clear:both;
+    text-align:center;
+    padding:5px; 
+}
